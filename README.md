@@ -1,1 +1,2 @@
 # Facial-Recognition
+This was created for a Computer Vision class taught by Jane Zhang at Cal Poly, San Luis Obispo. Do not use this code if you go to Cal Poly. Otherwise feel free to pull it and try it out. A new dataset would make the results better. We use a very limited dataset - 12 people with 50 images each and acheived a maximum of about 60% accuracy by tweaking the batch size, number of epochs, etc. Credit to http://vis-www.cs.umass.edu/lfw/ for the images. 
